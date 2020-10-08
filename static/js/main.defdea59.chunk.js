@@ -1,0 +1,2 @@
+(this["webpackJsonppanda-no-app"]=this["webpackJsonppanda-no-app"]||[]).push([[0],{3:function(n,e,t){n.exports=t(9)},8:function(n,e,t){},9:function(n,e,t){"use strict";t.r(e);var a=t(0),o=t.n(a),r=t(2),l=t.n(r);t(8);var p=function(){return o.a.createElement("div",null,o.a.createElement("h1",null,"Hello world!"))};l.a.render(o.a.createElement(p,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.defdea59.chunk.js.map
